@@ -1,3 +1,5 @@
 <!--pages/home/home.wxml-->
 <text></text>
-<text class="title"> 你好武汉</text>
+<text class="title"> HelloWord</text>
+<view>2.知识点2</view>
+<view>再提交一次</view>
