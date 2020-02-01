@@ -1,3 +1,6 @@
 <!--pages/home/home.wxml-->
 <text></text>
-<text class="title"> 你好武汉</text>
+<text class="title"> Hello Word</text>
+
+<view>1.知识点1</view>
+<view>git's use</view>
